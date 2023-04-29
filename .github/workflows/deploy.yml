@@ -32,4 +32,4 @@ jobs:
         repository: gradle-releases
         coordinates: groupId=com.example artifactId=app version=1.0.0
         assets: extension=jar
-        filename: ./build/libd/SimpleHelloAPI-0.0.1-SNAPSHOT.jar
+        filename: ./build/libs/SimpleHelloAPI-0.0.1-SNAPSHOT.jar
